@@ -144,6 +144,11 @@ npx skills add iamzifei/xiaobai-qa -g
 4. 把 `xiaobai-qa` 整个文件夹拖进去
 5. 重开 Claude Code，输入 `/xiaobai-qa 新手指南`
 
+### 用 ClawHub 或 SkillHub
+
+- ClawHub：`npx clawhub install iamzifei/xiaobai-qa`
+- SkillHub：搜「AI小白答疑」安装
+
 ### 博主回粉丝模式，装完多一步
 
 在 `xiaobai-qa` 文件夹里找到 `config.example.yaml`，复制一份，改名成 `config.yaml`。用记事本或任何文字编辑器打开它，把引号里的内容换成你自己的。只改引号里面的字，冒号、缩进、引号都不要动：
